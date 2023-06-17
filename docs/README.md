@@ -4,7 +4,7 @@ This document would be divided into multiple pages corresponding to the daily ac
 
 Development Stages:
 
-- [Day 1](day-1/) - Creating the project structure.
+- [Day 1](Day-1/) - Creating the project structure.
 
 More links will be added as and when new pages are added.
 

@@ -1,6 +1,6 @@
-# How the Project was created
+# How the Project is created
 
-> [← Go Back](../README.md)
+> [← Go Back](../)
 
 ## Day 1
 
@@ -12,18 +12,18 @@ Command flow:
 - `md Services/BlocksAPI` -- This command created the nested folders.
 - `cd Services/BlocksAPI` -- This navigated to the newly created folder.
 - `dotnet new webapi -f "net6.0"` -- This created the WebApi project in the BlocksAPI folder by the same name.
-  ![WebAPI](img/webapi.png)
+  ![WebAPI](webapi.png)
 - `dotnet new gitignore` -- This added the GITIGNORE file to the Project.
 - `cd ../../` - Navigatng to the root path or solution path.
 - `git init` -- Initiating the GIT repo at the root.
 - `git status` -- To check the number of changes pending.
-  ![git status](img/image.png)
+  ![git status](image.png)
 - `dotnet sln add **/*.csproj` -- Adding the newly added project to the solution.
-  ![Add Project to the solution](img/AddProject.png)
+  ![Add Project to the solution](AddProject.png)
 - `cd Services/BlocksAPI` -- Navigating to the Project
 - `dotnet build` -- To build the Project.
 - `dotnet run` -- To execute the project.
-  ![Run the project](img/RunProject.png)
+  ![Run the project](RunProject.png)
 - `cd ../..` -- Navigating to the root.
 - `dotnet new editorconfig` -- Creating the editor config and installing the **'EditorConfig for VS Code'** extension to enable support for editorconfig
 - `touch README.md` - Creating the README file for the solution.
@@ -32,4 +32,4 @@ Command flow:
 
 Finally filling up all the details in the README file along with images.
 
-> [← Go Back](../README.md) | [↑ Go Top](#how-the-project-was-created)
+> [← Go Back](../) **`|`** [↑ Go Top](#how-the-project-is-created)

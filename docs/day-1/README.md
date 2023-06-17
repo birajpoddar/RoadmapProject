@@ -2,7 +2,7 @@
 
 > [← Go Back](../README.md)
 
-## Day :one:
+## Day 1
 
 The project is created using the dotnet CLI
 
@@ -32,4 +32,4 @@ Command flow:
 
 Finally filling up all the details in the README file along with images.
 
-> [← Go Back](../README.md) | [:top:](#how-the-project-was-created)
+> [← Go Back](../README.md) | [↑ Go Top](#how-the-project-was-created)
